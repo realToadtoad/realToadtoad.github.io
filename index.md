@@ -1,14 +1,15 @@
-<<<<<<< HEAD
+<!DOCTYPE html>
 <head>
-    <title>Toadtoad</title>
-    <meta name = "description" content = "the site of Toadtoad">
-    <meta name = "author" content = "Toadtoad">
-    <link rel="shortcut icon" type="image/png" 
-      href="{{ "/assets/images/favicon.png"  | absolute_url }}">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Toadtoad</title>
+  <meta charset="utf-8">
+  <meta name = "description" content = "the site of Toadtoad">
+  <meta name = "author" content = "Toadtoad">
+  <link rel="shortcut icon" type="image/png" 
+    href="{{ "/assets/images/favicon.png"  | absolute_url }}">
 </head>
 
-=======
->>>>>>> 287e3bfbbc8e48176be0b3ce3971837bc938bfdb
 # toadtoad's page
 
 hi. 
