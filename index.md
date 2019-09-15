@@ -6,8 +6,7 @@
   <meta charset="utf-8">
   <meta name = "description" content = "the site of Toadtoad">
   <meta name = "author" content = "Toadtoad">
-  <link rel="shortcut icon" type="image/png" 
-    href="{{ "/assets/images/favicon.png"  | absolute_url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
 # toadtoad's page
