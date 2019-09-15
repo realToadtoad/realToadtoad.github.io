@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <head>
     <title>Toadtoad</title>
     <meta name = "description" content = "the site of Toadtoad">
@@ -6,6 +7,8 @@
       href="{{ "/assets/images/favicon.png"  | absolute_url }}">
 </head>
 
+=======
+>>>>>>> 287e3bfbbc8e48176be0b3ce3971837bc938bfdb
 # toadtoad's page
 
 hi. 
