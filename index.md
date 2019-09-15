@@ -17,5 +17,5 @@ hi.
 
 so uh yeah here's stuff like subdomains
 
-- **vc.toadtoad.xyz** - voice chat using [mumble](https://www.mumble.info/) (port: 64738, password: "toadtoad" without quotes, just accept the server certificate warning; im not buying a certificate)
+- **vc.toadtoad.xyz** - voice chat using [mumble](https://www.mumble.info/) (port: 64738, password: "toadtoad" without quotes, just accept the server certificate warning
 - that's all for now
