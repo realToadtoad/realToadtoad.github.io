@@ -7,6 +7,8 @@
   <meta name = "description" content = "the site of Toadtoad">
   <meta name = "author" content = "Toadtoad">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/roboto" type="text/css"/> 
+  <link rel="stylesheet" href="css/toadtoad1.css">
 </head>
 
 # toadtoad's page
