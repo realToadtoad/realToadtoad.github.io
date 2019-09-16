@@ -25,3 +25,19 @@ p, ul {
     font-size: 18px;
     font-family: 'RobotoRegular';
 }
+
+a {
+    color: #2196f3;
+}
+
+a:hover {
+    color: #6ec6ff;
+}
+
+a:active {
+    color: #0069c0;
+}
+
+a:visited {
+    color:#2196f3;
+  }
