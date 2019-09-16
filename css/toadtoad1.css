@@ -30,6 +30,10 @@ a:link {
     color: #2196f3;
 }
 
+a:visited {
+    color: #2196f3;
+}
+
 a:hover {
     color: #6ec6ff;
 }
