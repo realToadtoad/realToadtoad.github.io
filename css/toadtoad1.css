@@ -1,0 +1,43 @@
+body {
+    background-color: #292929;
+}
+
+h1 {
+    color: white;
+    font-size: 48px;
+    font-family: 'RobotoRegular';
+}
+
+h1:after {
+    content: " ";
+    display:block;
+    border:1px solid #555555;
+}
+
+h2 {
+    color: white;
+    font-size: 24px;
+    font-family: 'RobotoRegular';
+}
+
+p, ul {
+    color: white;
+    font-size: 18px;
+    font-family: 'RobotoRegular';
+}
+
+a:link {
+    color: #2196f3;
+}
+
+a:visited {
+    color: #2196f3;
+}
+
+a:hover {
+    color: #6ec6ff;
+}
+
+a:active {
+    color: #0069c0;
+}

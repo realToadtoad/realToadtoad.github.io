@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Toadtoad</title>
+  <meta charset="utf-8">
+  <meta name = "description" content = "the site of Toadtoad">
+  <meta name = "author" content = "Toadtoad">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/roboto" type="text/css"/> 
+  <link rel="stylesheet" href="css/toadtoad1.css">
+</head>
+
+# toadtoad's page
+
+hi. 
+
+## links and stuff
+
+so uh yeah here's stuff like subdomains
+
+- **vc.toadtoad.xyz** - voice chat using <a href="http://www.mumble.info/" target="_blank">mumble</a> (port: 64738, password: "toadtoad" without quotes, just accept the server certificate warning)
+- that's all for now
