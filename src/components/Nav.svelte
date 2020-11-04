@@ -41,7 +41,7 @@
       display: flex;
       float: left;
       color: black;
-      font-family: "Courier Prime SemiBold";
+      font-family: "CourierPrimeBold";
       font-size: 125%;
       vertical-align: center;
     }
@@ -53,8 +53,8 @@
       float: left;
       /* border-right: 1px solid #aaaaaa; */
       align-items: center;
-			align-content: center;
-			position: fixed;
+      align-content: center;
+      position: fixed;
     }
 
     .pfp {
@@ -111,7 +111,7 @@
       display: flex;
       float: left;
       color: black;
-      font-family: "Courier Prime SemiBold";
+      font-family: "CourierPrimeBold";
       font-size: 80%;
       vertical-align: center;
     }
@@ -122,7 +122,7 @@
       width: 100%;
       /* border-right: 1px solid #aaaaaa; */
       align-items: center;
-			align-content: center;
+      align-content: center;
     }
 
     .pfp {
@@ -141,8 +141,8 @@
       position: absolute;
       text-align: center;
       width: 50vw;
-			align-items: center;
-			left: 22.7vw
+      align-items: center;
+      left: 22.7vw;
     }
 
     .copyright {
@@ -203,6 +203,12 @@
   rel="stylesheet"
   media="screen"
   href="https://fontlibrary.org/face/courier-prime-sans"
+  type="text/css" />
+
+<link
+  rel="stylesheet"
+  media="screen"
+  href="https://fontlibrary.org/face/courier-prime"
   type="text/css" />
 
 <div class="sidebar">

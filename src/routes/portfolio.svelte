@@ -4,7 +4,7 @@
 	}
 	
 	table .absorbing-column {
-		width: 150%
+		width: 100%
 	}
 </style>
 
