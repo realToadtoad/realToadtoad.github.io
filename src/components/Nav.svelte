@@ -139,9 +139,9 @@
       flex-direction: row;
       position: absolute;
       text-align: center;
-      width: 100vw;
+      width: 50vw;
 			align-items: center;
-			left: -2.2vw
+			left: 22.7vw
     }
 
     .copyright {
