@@ -13,7 +13,7 @@
 </svelte:head>
 <h1>Portfolio</h1>
 
-<p>This will be the 'portfolio' page. There's not much here.</p>
+<p>Here are a few of my works. I've done quite a lot during 2020, as the pandemic gave me the chance to complete a lot of projects in film and computer science. While I have works from prior, this year was the one where they really began to take shape.</p>
 
 <table border="1" cellspacing="0">
 	<thead>
