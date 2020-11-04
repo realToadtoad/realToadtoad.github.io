@@ -7,29 +7,44 @@
 
   function checkDarkMode() {
     if (dark == undefined) {
-			darkMode = true;
-			setTimeout(checkDarkMode, 1000)
+      darkMode = true;
+      setTimeout(checkDarkMode, 1000);
     } else {
       const unsubscribe = dark.subscribe((value) => {
         darkMode = value;
       });
-		}
-	}
+    }
+  }
 
-	checkDarkMode();
+  checkDarkMode();
 </script>
 
 <style>
-  main {
-		position: relative;
-    max-width: 60%;
-    padding: 2em;
-    margin: 0 5%;
-    box-sizing: border-box;
-		height: 100vh;
-  }
-  .float {
-    float: left;
+  @media (min-width: 700px) {
+    main {
+      position: relative;
+      max-width: 60%;
+      padding: 2em;
+      margin: 0 5%;
+      box-sizing: border-box;
+      height: 100vh;
+    }
+    .float {
+      float: left;
+    }
+	}
+	@media (max-width: 700px) {
+    main {
+      position: relative;
+      max-width: 100%;
+      padding: 2em;
+      margin: 0 5%;
+      box-sizing: border-box;
+      height: 80vh;
+    }
+    .float {
+      float: left;
+    }
   }
 </style>
 

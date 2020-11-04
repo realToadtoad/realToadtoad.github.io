@@ -23,76 +23,150 @@
 </script>
 
 <style>
-  ul {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-  }
+  @media (min-width: 700px) {
+    ul {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    /* clearfix */
+    ul::after {
+      content: "";
+      display: flex;
+      clear: both;
+    }
 
-  /* clearfix */
-  ul::after {
-    content: "";
-    display: flex;
-    clear: both;
-  }
+    li {
+      display: flex;
+      float: left;
+      color: black;
+      font-family: "Courier Prime SemiBold";
+      font-size: 125%;
+      vertical-align: center;
+    }
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      width: 30%;
+      float: left;
+      /* border-right: 1px solid #aaaaaa; */
+      align-items: center;
+      align-content: center;
+    }
 
-  li {
-    display: flex;
-    float: left;
-    color: black;
-    font-family: "Courier Prime SemiBold";
-    font-size: 125%;
-    vertical-align: center;
-  }
+    .pfp {
+      position: relative;
+      width: 50%;
+      padding: 5%;
+    }
 
-  .sidebar {
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    width: 30%;
-    float: left;
-    /* border-right: 1px solid #aaaaaa; */
-    align-items: center;
-    align-content: center;
-  }
+    .centered-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      width: 150%;
+    }
 
-  .pfp {
-    position: relative;
-    width: 50%;
-    padding: 5%;
-  }
+    h1 {
+      font-family: "CourierPrimeSansBold";
+      color: white;
+      text-shadow: 2px 2px 5px #000000;
+      font-size: 300%;
+      line-height: 0.5;
+    }
 
-  .centered-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    width: 150%;
-  }
+    h2 {
+      font-family: "CourierPrimeSansBold";
+      color: white;
+      text-shadow: 2px 2px 5px #000000;
+      font-size: 150%;
+      line-height: 0.25;
+    }
 
-  h1 {
-    font-family: "CourierPrimeSansBold";
-    color: white;
-    text-shadow: 2px 2px 5px #000000;
-    font-size: 300%;
-    line-height: 0.25;
+    .copyright {
+      position: absolute;
+      bottom: 0.4vh;
+    }
   }
+  @media (max-width: 700px) {
+    ul {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: row;
+    }
+    /* clearfix */
+    ul::after {
+      content: "";
+      display: flex;
+      clear: both;
+    }
 
-  h2 {
-    font-family: "CourierPrimeSansBold";
-    color: white;
-    text-shadow: 2px 2px 5px #000000;
-    font-size: 150%;
-    line-height: 0.25;
+    li {
+      display: flex;
+      float: left;
+      color: black;
+      font-family: "Courier Prime SemiBold";
+      font-size: 80%;
+      vertical-align: center;
+    }
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      height: 20vh;
+      width: 100%;
+      /* border-right: 1px solid #aaaaaa; */
+      align-items: center;
+      align-content: center;
+    }
+
+    .pfp {
+      position: absolute;
+      width: 36px;
+      margin: 2%;
+      top: 0;
+      left: 0;
+      display: flex;
+      flex-direction: row;
+    }
+
+    .centered-text {
+      display: block;
+      flex-direction: row;
+      position: absolute;
+      text-align: center;
+      width: 100vw;
+			align-items: center;
+			left: -2.2vw
+    }
+
+    .copyright {
+      position: absolute;
+      bottom: 0.4vh;
+    }
+
+    h1 {
+      font-family: "CourierPrimeSansBold";
+      color: white;
+      text-shadow: 2px 2px 5px #000000;
+      font-size: 150%;
+      line-height: 1;
+      margin: 5px;
+    }
+
+    h2 {
+      font-family: "CourierPrimeSansBold";
+      color: white;
+      text-shadow: 2px 2px 5px #000000;
+      font-size: 100%;
+      line-height: 1;
+      margin: 5px;
+    }
   }
-
-  .copyright {
-    position: absolute;
-    bottom: 0.4vh;
-  }
-
   @font-face {
     font-family: "NerdFontsSymbols";
     src: url(https://www.nerdfonts.com/assets/fonts/Symbols-2048-em%20Nerd%20Font%20Complete.woff2)
@@ -107,12 +181,12 @@
     font-size: 36px;
   }
   .material-icons.md-dark {
-		color: rgba(0, 0, 0, 0.54);
-		transition: all 0.5s;
+    color: rgba(0, 0, 0, 0.54);
+    transition: all 0.5s;
   }
   .material-icons.md-light {
-		color: rgba(255, 255, 255, 1);
-		transition: all 0.5s;
+    color: rgba(255, 255, 255, 1);
+    transition: all 0.5s;
   }
   .btn {
     border: none;
@@ -145,7 +219,8 @@
       <h2>Toadtoad</h2>
     </div>
   </div>
-  <div style="height: 10vh; display: flex; flex-direction: row; align-items: center; justify-content: space-evenly">
+  <div
+    style="height: 10vh; display: flex; flex-direction: row; align-items: center; justify-content: space-evenly">
     {#if darkMode}
       <button
         onclick="window.open('https://www.youtube.com/channel/UCcqZtl3HSEbJAXk53ygb4bA','_blank');"
@@ -158,8 +233,8 @@
         class="btn material-icons md-36 md-dark"
         style="margin: 3%;"
         title="YouTube">{'\uf16a'}</button>
-		{/if}
-		{#if darkMode}
+    {/if}
+    {#if darkMode}
       <button
         onclick="window.open('mailto:aiden.k.sato@gmail.com');"
         class="btn material-icons md-36 md-light"
