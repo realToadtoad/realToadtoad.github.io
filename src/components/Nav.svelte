@@ -53,7 +53,8 @@
       float: left;
       /* border-right: 1px solid #aaaaaa; */
       align-items: center;
-      align-content: center;
+			align-content: center;
+			position: fixed;
     }
 
     .pfp {
@@ -121,7 +122,7 @@
       width: 100%;
       /* border-right: 1px solid #aaaaaa; */
       align-items: center;
-      align-content: center;
+			align-content: center;
     }
 
     .pfp {

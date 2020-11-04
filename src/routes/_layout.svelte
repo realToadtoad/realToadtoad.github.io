@@ -27,20 +27,24 @@
       padding: 2em;
       margin: 0 5%;
       box-sizing: border-box;
-      height: 100vh;
+			height: 100vh;
+			overflow-y: overlay;
     }
     .float {
-      float: left;
+			float: left;
+			margin-left: 40%
     }
 	}
 	@media (max-width: 700px) {
     main {
       position: relative;
       max-width: 100%;
-      padding: 2em;
-      margin: 0 5%;
+      padding-left: 2em;
+      padding-right: 2em;
+      margin: 0 0;
       box-sizing: border-box;
-      height: 80vh;
+			height: 80vh;
+			overflow: scroll;
     }
     .float {
       float: left;

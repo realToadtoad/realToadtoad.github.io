@@ -75,6 +75,11 @@ code {
 	border-radius: 2px;
 }
 
+table, td {
+	color: #000000;
+	transition: all 0.5s;
+}
+
 @media (min-width: 400px) {
 	body {
 		font-size: 16px;
