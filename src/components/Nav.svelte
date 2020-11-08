@@ -55,6 +55,7 @@
       align-items: center;
       align-content: center;
       position: fixed;
+      overflow-y: auto;
     }
 
     .pfp {
@@ -86,11 +87,6 @@
       text-shadow: 2px 2px 5px #000000;
       font-size: 150%;
       line-height: 0.25;
-    }
-
-    .copyright {
-      position: absolute;
-      bottom: 0.4vh;
     }
   }
   @media (max-width: 700px) {
@@ -145,11 +141,6 @@
       left: 22.7vw;
     }
 
-    .copyright {
-      position: absolute;
-      bottom: 0.4vh;
-    }
-
     h1 {
       font-family: "CourierPrimeSansBold";
       color: white;
@@ -167,6 +158,16 @@
       line-height: 1;
       margin: 5px;
     }
+  }
+  .copyright {
+    position: absolute;
+    bottom: 0.4vh;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
   }
   @font-face {
     font-family: "NerdFontsSymbols";
@@ -212,6 +213,7 @@
   type="text/css" />
 
 <div class="sidebar">
+  <div class="copyright">© 2020 Aiden Sato</div>
   <div
     style="display: flex; flex-direction: row; width: 100%; height: 48px; justify-content: flex-end; align-items: center;">
     <DarkModeToggle />
@@ -284,5 +286,4 @@
       </ul>
     </nav>
   </div>
-  <div class="copyright">© 2020 Aiden Sato</div>
 </div>

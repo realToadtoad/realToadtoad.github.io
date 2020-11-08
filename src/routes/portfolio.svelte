@@ -53,9 +53,9 @@
       <td>Pending</td>
       <td>
         <a
-          href="https://www.youtube.com/watch?v=loqp-fwAFsL0"
+          href="https://www.youtube.com/watch?v=loqp-fwFsL0"
           class="linkified"
-          target="_blank">https://www.youtube.com/watch?v=loqp-fwAFsL0</a>
+          target="_blank">https://www.youtube.com/watch?v=loqp-fwFsL0</a>
       </td>
       <td>Co-writer, co-director, co-video editor, programmer</td>
       <td>
