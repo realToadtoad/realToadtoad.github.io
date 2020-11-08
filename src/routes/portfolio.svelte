@@ -239,9 +239,9 @@
       <td>March 2020</td>
       <td>
         <a
-          href="https://devpost.com/software/hymn-gzjxti#updates"
+          href="https://devpost.com/software/hymn-gzjxti"
           class="linkified"
-          target="_blank">https://devpost.com/software/hymn-gzjxti#updates</a>
+          target="_blank">https://devpost.com/software/hymn-gzjxti</a>
       </td>
       <td>ui designer, co-programmer</td>
       <td>

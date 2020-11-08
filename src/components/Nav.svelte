@@ -236,20 +236,27 @@
         class="btn material-icons md-36 md-light"
         style="margin: 3%;"
         title="YouTube">{'\uf16a'}</button>
-    {:else}
       <button
-        onclick="window.open('https://www.youtube.com/channel/UCcqZtl3HSEbJAXk53ygb4bA','_blank');"
-        class="btn material-icons md-36 md-dark"
+        onclick="window.open('https://www.github.com/realToadtoad');"
+        class="btn material-icons md-36 md-light"
         style="margin: 3%;"
-        title="YouTube">{'\uf16a'}</button>
-    {/if}
-    {#if darkMode}
+        title="GitHub">{'\uf7a3'}</button>
       <button
         onclick="window.open('mailto:aiden.k.sato@gmail.com');"
         class="btn material-icons md-36 md-light"
         style="margin: 3%;"
         title="Email">{'\uf6ed'}</button>
     {:else}
+      <button
+        onclick="window.open('https://www.youtube.com/channel/UCcqZtl3HSEbJAXk53ygb4bA','_blank');"
+        class="btn material-icons md-36 md-dark"
+        style="margin: 3%;"
+        title="YouTube">{'\uf16a'}</button>
+      <button
+        onclick="window.open('https://www.github.com/realToadtoad');"
+        class="btn material-icons md-36 md-dark"
+        style="margin: 3%;"
+        title="GitHub">{'\uf7a3'}</button>
       <button
         onclick="window.open('mailto:aiden.k.sato@gmail.com');"
         class="btn material-icons md-36 md-dark"
