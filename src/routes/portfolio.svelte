@@ -5,7 +5,7 @@
 	
 	table .absorbing-column {
 		width: 100%
-	}
+  }
 </style>
 
 <svelte:head>

@@ -32,7 +32,7 @@
     }
     .float {
 			float: left;
-			margin-left: 40%
+			margin-left: 35%
     }
 	}
 	@media (max-width: 700px) {
