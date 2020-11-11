@@ -108,7 +108,7 @@
     </tr>
     <tr>
       <td>How We&rsquo;re Studying Over Quarantine (Sorta)</td>
-      <td>Aptril 2020</td>
+      <td>April 2020</td>
       <td>
         <a
           href="https://www.youtube.com/watch?v=EZ8i9PMDo8A"
