@@ -69,6 +69,25 @@
       </td>
     </tr>
     <tr>
+      <td>OA PTSA Winter Raffle Ad</td>
+      <td>Novmeber 2020</td>
+      <td>
+        <a
+          href="https://www.youtube.com/watch?v=YQGxtmzyOr4"
+          class="linkified"
+          target="_blank">https://www.youtube.com/watch?v=YQGxtmzyOr4</a>
+      </td>
+      <td>Co-director, video editor</td>
+      <td>
+        A friend and I were commissioned by PTSA to make a video advertising their
+        Winter Raffle Event. We bought a few RGB lights from Home Depot, set them
+        up, and filmed in front of some black tablecloths. Due to the short length
+        of the video, it was really quick to make it, the whole process only taking
+        a couple of days. Yet, it was a lot of fun to do such a fact-paced,
+        energetic video.
+      </td>
+    </tr>
+    <tr>
       <td>Wasting Water is Outdated</td>
       <td>April 2020</td>
       <td>
