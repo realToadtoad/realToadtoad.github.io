@@ -75,7 +75,7 @@
     }
 
     h1 {
-      font-family: "Roboto Mono", monospace;
+      font-family: "Space Mono", monospace;
       font-weight: 700;
       color: white;
       text-shadow: 2px 2px 5px #000000;
@@ -84,7 +84,7 @@
     }
 
     h2 {
-      font-family: "Roboto Mono", monospace;
+      font-family: "Space Mono", monospace;
       font-weight: 700;
       color: white;
       text-shadow: 2px 2px 5px #000000;
@@ -146,7 +146,7 @@
     }
 
     h1 {
-      font-family: "Roboto Mono", monospace;
+      font-family: "Space Mono", monospace;
       font-weight: 700;
       color: white;
       text-shadow: 2px 2px 5px #000000;
@@ -156,7 +156,7 @@
     }
 
     h2 {
-      font-family: "Roboto Mono", monospace;
+      font-family: "Space Mono", monospace;
       font-weight: 700;
       color: white;
       text-shadow: 2px 2px 5px #000000;
@@ -207,7 +207,7 @@
 </style>
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Roboto+Mono:wght@600;700&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Space+Mono:wght@700&display=swap" rel="stylesheet"> 
 
 <div class="sidebar">
   <div class="copyright">© 2020 Aiden Sato</div>
