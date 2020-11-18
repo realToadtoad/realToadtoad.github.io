@@ -13,7 +13,7 @@
 </svelte:head>
 <h1>Portfolio</h1>
 
-<p>Here are a few of my works. I've done quite a lot during 2020, as the pandemic gave me the chance to complete a lot of projects in film and computer science. While I have works from prior, this year was the one where they really began to take shape.</p>
+<p>Here are a few of my works, in the order of what I find the best / most important. I've done quite a lot during 2020, as the pandemic gave me the chance to complete a lot of projects in film and computer science. While I have works from prior, this year was the one where they really began to take shape.</p>
 
 <table border="1" cellspacing="0">
 	<thead>
@@ -69,6 +69,24 @@
       </td>
     </tr>
     <tr>
+      <td>Wasting Water is Outdated</td>
+      <td>April 2020</td>
+      <td>
+        <a
+          href="https://www.youtube.com/watch?v=Sui0VBIAxW0"
+          class="linkified"
+          target="_blank">https://www.youtube.com/watch?v=Sui0VBIAxW0</a>
+      </td>
+      <td>Co-writer, director, video editor</td>
+      <td>
+        Created for the Solar Boat competition, &ldquo;Wasting Water Is
+        Outdated&rdquo; is a one minute PSA video about water conservation. For
+        this video, I put a lot of effort into a professional-looking video in a
+        &ldquo;video essay&rdquo; format, also learning how to use some features
+        of Blender.
+      </td>
+    </tr>
+    <tr>
       <td>OA PTSA Winter Raffle Ad</td>
       <td>Novmeber 2020</td>
       <td>
@@ -85,24 +103,6 @@
         of the video, it was really quick to make it, the whole process only taking
         a couple of days. Yet, it was a lot of fun to do such a fact-paced,
         energetic video.
-      </td>
-    </tr>
-    <tr>
-      <td>Wasting Water is Outdated</td>
-      <td>April 2020</td>
-      <td>
-        <a
-          href="https://www.youtube.com/watch?v=Sui0VBIAxW0"
-          class="linkified"
-          target="_blank">https://www.youtube.com/watch?v=Sui0VBIAxW0</a>
-      </td>
-      <td>Co-writer, director, video editor</td>
-      <td>
-        Created for the Solar Boat competition, &ldquo;Wasting Water Is
-        Outdated&rdquo; is a one minute PSA video about water conservation. For
-        this video, I put a lot of effort into a professional-looking video in a
-        &ldquo;video essay&rdquo; format, also learning how to use some features
-        of Blender.
       </td>
     </tr>
     <tr>
