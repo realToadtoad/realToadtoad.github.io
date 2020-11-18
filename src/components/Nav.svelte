@@ -41,7 +41,8 @@
       display: flex;
       float: left;
       color: black;
-      font-family: "CourierPrimeBold";
+      font-family: "Courier Prime", monospace;
+      font-weight: 700;
       font-size: 125%;
       vertical-align: center;
     }
@@ -74,7 +75,8 @@
     }
 
     h1 {
-      font-family: "CourierPrimeSansBold";
+      font-family: "Roboto Mono", monospace;
+      font-weight: 700;
       color: white;
       text-shadow: 2px 2px 5px #000000;
       font-size: 300%;
@@ -82,7 +84,8 @@
     }
 
     h2 {
-      font-family: "CourierPrimeSansBold";
+      font-family: "Roboto Mono", monospace;
+      font-weight: 700;
       color: white;
       text-shadow: 2px 2px 5px #000000;
       font-size: 150%;
@@ -107,7 +110,8 @@
       display: flex;
       float: left;
       color: black;
-      font-family: "CourierPrimeBold";
+      font-family: "Courier Prime", monospace;
+      font-weight: 700;
       font-size: 80%;
       vertical-align: center;
     }
@@ -142,7 +146,8 @@
     }
 
     h1 {
-      font-family: "CourierPrimeSansBold";
+      font-family: "Roboto Mono", monospace;
+      font-weight: 700;
       color: white;
       text-shadow: 2px 2px 5px #000000;
       font-size: 150%;
@@ -151,7 +156,8 @@
     }
 
     h2 {
-      font-family: "CourierPrimeSansBold";
+      font-family: "Roboto Mono", monospace;
+      font-weight: 700;
       color: white;
       text-shadow: 2px 2px 5px #000000;
       font-size: 100%;
@@ -200,17 +206,8 @@
   }
 </style>
 
-<link
-  rel="stylesheet"
-  media="screen"
-  href="https://fontlibrary.org/face/courier-prime-sans"
-  type="text/css" />
-
-<link
-  rel="stylesheet"
-  media="screen"
-  href="https://fontlibrary.org/face/courier-prime"
-  type="text/css" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&family=Roboto+Mono:wght@600;700&display=swap" rel="stylesheet"> 
 
 <div class="sidebar">
   <div class="copyright">© 2020 Aiden Sato</div>
