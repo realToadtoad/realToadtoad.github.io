@@ -88,7 +88,7 @@
     </tr>
     <tr>
       <td>OA PTSA Winter Raffle Ad</td>
-      <td>Novmeber 2020</td>
+      <td>November 2020</td>
       <td>
         <a
           href="https://www.youtube.com/watch?v=YQGxtmzyOr4"
