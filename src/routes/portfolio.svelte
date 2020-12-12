@@ -24,7 +24,6 @@
 		<th class="absorbing-column">Description / Notes</th>
 	</thead>
   <tbody>
-    
     <tr>
       <td>Undoing</td>
       <td>October 2020</td>
@@ -46,6 +45,27 @@
         film). I have to give so much thanks to my other teammates, Lance
         Sahagun and Anthony Wang, for the trust they gave me for this ambitious
         project.
+      </td>
+    </tr>
+    <tr>
+      <td>CTRL</td>
+      <td>December 2020</td>
+      <td>
+        <a
+          href="https://www.youtube.com/watch?v=ZoreL5kBRwU"
+          class="linkified"
+          target="_blank">https://www.youtube.com/watch?v=ZoreL5kBRwU</a>
+      </td>
+      <td>Writer, director, voice-over, video editor</td>
+      <td>
+        &ldquo;CTRL&rdquo; is a film that I find to be representative of the
+        topics that I would eventually want to cover as a filmmaker in the 
+        future. The focus on the privacy threats in the Internet is a topic
+        that I really care about, and therefore had a lot of fun making a 
+        video about. Most of the time on this project was dedicated to
+        editing, which included the drawing of the various humanoid figures
+        as well as figuring out how to use 3D modeling tools to animate
+        different effects such as the person made out of particles.
       </td>
     </tr>
     <tr>
