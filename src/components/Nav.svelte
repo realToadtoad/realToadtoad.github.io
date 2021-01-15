@@ -62,6 +62,7 @@
     .pfp {
       position: relative;
       width: 50%;
+      padding-top: 100%;
       padding: 5%;
     }
 
@@ -128,6 +129,7 @@
     .pfp {
       position: absolute;
       width: 36px;
+      height: 36px;
       margin: 2%;
       top: 0;
       left: 0;
