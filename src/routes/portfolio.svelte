@@ -66,6 +66,7 @@
         the person made out of particles.
       </td>
     </tr>
+    <!--
     <tr>
       <td>ViriDOS</td>
       <td>Pending</td>
@@ -87,6 +88,7 @@
         dozen different puzzles throughout the course of the game.
       </td>
     </tr>
+    -->
     <tr>
       <td>The Great World State: A Brave New World Musical</td>
       <td>January 2021</td>
