@@ -21,6 +21,13 @@
   </thead>
   <tbody>
     <tr>
+      <td>ViriDOS</td>
+      <td>March 2021</td>
+      <td></td>
+      <td>Co-writer, co-director, programmer, some 3d animation</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Undoing</td>
       <td>October 2020</td>
       <td>
@@ -66,29 +73,6 @@
         the person made out of particles.
       </td>
     </tr>
-    <!--
-    <tr>
-      <td>ViriDOS</td>
-      <td>Pending</td>
-      <td>
-        <a
-          href="https://www.youtube.com/watch?v=loqp-fwFsL0"
-          class="linkified"
-          target="_blank">https://www.youtube.com/watch?v=loqp-fwFsL0</a
-        >
-      </td>
-      <td>Co-writer, co-director, co-video editor, programmer</td>
-      <td>
-        ViriDOS is an interactive, &ldquo;virtual escape room&rdquo; experience
-        developed from scratch by my friends and I. Even though it&rsquo;s not
-        even done yet, the progress made on this project makes it one of the
-        things I&rsquo;ve made that I&rsquo;m most proud of. We&rsquo;re going
-        big for this project, including 360&deg; photos of our campus, videos of
-        various staff members &ldquo;interacting&rdquo; with players, and over a
-        dozen different puzzles throughout the course of the game.
-      </td>
-    </tr>
-    -->
     <tr>
       <td>The Great World State: A Brave New World Musical</td>
       <td>January 2021</td>
