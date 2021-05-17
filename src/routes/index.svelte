@@ -1,6 +1,3 @@
-<script data-goatcounter="https://goatwd.goatcounter.com/count"
-  async src="//gc.zgo.at/count.js"></script>
-
 <script>
 	
 </script>
@@ -10,6 +7,8 @@
 
 <svelte:head>
   <title>Aiden Sato // Toadtoad</title>
+  <script data-goatcounter="https://goatwd.goatcounter.com/count"
+    async src="//gc.zgo.at/count.js"></script>
 </svelte:head>
 
 <h1>Hello!</h1>
